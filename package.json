@@ -1,0 +1,15 @@
+{
+  "name": "pooja-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp chatbot for Pooja booking using Baileys.js and Nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "@hapi/boom": "^11.1.4",
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.10"
+  }
+}
