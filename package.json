@@ -7,9 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.0",
-    "@hapi/boom": "^11.1.4",
-    "dotenv": "^16.3.1",
-    "nodemailer": "^6.9.10"
-  }
+  "@whiskeysockets/baileys": "^6.7.0",
+  "@hapi/boom": "^10.0.1",
+  "dotenv": "^16.3.1",
+  "nodemailer": "^6.9.10"
+}
 }
