@@ -1,0 +1,1 @@
+echo "auth_info.json\n.env" > .gitignore
